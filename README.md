@@ -1,6 +1,6 @@
 # SolanaScope
 
-A sleek, searchable cryptocurrency dashboard for Solana-based tokens, featuring a responsive table with real-time data, sentiment analysis via TextBlob, modern styling, and tooltips for metrics like scores, built with HTML, CSS, JavaScript, Flask for server-side rendering, and integrated with Solana blockchain APIs and Web3.js for wallet connectivity.
+SolanaScope is an ongoing project that scans the Solana network to identify promising investment opportunities and ranks the top projects based on a scoring system. Features and data accuracy are still under development.
 
 ## Features
 - **Real-Time Data**: Displays live Solana token metrics (e.g., Pudgy Penguins at 6.85).
