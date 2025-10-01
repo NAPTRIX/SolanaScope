@@ -7,7 +7,6 @@ SolanaScope is an ongoing project that scans the Solana network to identify prom
 - **Searchable Table**: Responsive, sortable table with modern styling.
 - **Sentiment Analysis**: Powered by TextBlob for token-related sentiment insights.
 - **Tooltips**: Interactive tooltips for scores and other metrics.
-- **Blockchain Integration**: Uses Solana APIs and Web3.js for wallet connectivity.
 
 ## Installation
 1. Clone the repository:
