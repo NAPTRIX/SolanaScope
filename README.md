@@ -16,7 +16,7 @@ A sleek, searchable cryptocurrency dashboard for Solana-based tokens, featuring 
    cd SolanaScope
 2. Install dependencies:
    ```bash
-   pip install requests textblob prettytable flask solana web3.py
+   pip install requests textblob prettytable flask
 3. Run the Flask app:
    ```bash
    python SolScope.py
